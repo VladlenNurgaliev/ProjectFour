@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\HYPERPC\source\repos\My_String\My_String\main.cpp(18,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\HYPERPC\source\repos\My_String\My_String\main.cpp(41,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\HYPERPC\source\repos\My_String\My_String\main.cpp(60,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\HYPERPC\source\repos\My_String\My_String\main.cpp(77,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\HYPERPC\source\repos\My_String\My_String\main.cpp(78,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+Source.obj : error LNK2005: main уже определен в main.obj
+C:\Users\HYPERPC\source\repos\My_String\x64\Debug\My_String.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
